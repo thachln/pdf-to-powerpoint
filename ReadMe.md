@@ -17,3 +17,5 @@ Will produce `example.pptx` in the same folder.
 ## Dependencies
 
 In addition to the python packages in requirements.txt, `poppler` is also required in order for this script to work. On Mac OS you can install this with `brew install poppler`.
+ pip install -r requirements.txt
+ (You can run script install-libraries.cmd)
